@@ -1,0 +1,11 @@
+{
+    "name": "IPL live score",
+    "version": "1.0.0",
+    "description": "get the live ipl scores on your pc",
+    "manifest_version": 3,
+    "author": "Deevankshu Garg and gitanshu sankhla",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "IPL live score"
+    }
+}
